@@ -1,0 +1,11 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.nav-link {
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: #34d399;
+}
